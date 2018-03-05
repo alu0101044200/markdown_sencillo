@@ -293,7 +293,9 @@ No son propios de Markdown pero algunos servicios, como github, los permiten mos
 	- [ ] una subtarea
 - [x] tarea finalizada
 
+
 <a name="index"/>
+
 ## Creación de índices
 
 Esta [plantilla](./indice.md) para la creación de índices en Markdown puede ser de utilidad. 
